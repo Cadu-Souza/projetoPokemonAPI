@@ -242,11 +242,12 @@ body{
     font-size: 21px;
     font-weight: 600;
     margin-top: 3px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 .pkm_card_dex, .pkm_card_tipo{
     margin-left: 10px;
+    margin-botton: 5px;
     font-weight: 500;
 }
 
